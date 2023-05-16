@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "Ticket Closer"
+version = "1.0.0"
+authors = [
+    { name = "Cole Patterson", email = "cole.patter@gmail.com" },
+]
+description = "A tool to close Toast VIP tickets"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pyautogui",
+    "pynput",
+]
