@@ -1,7 +1,6 @@
 # Ticket Closer
 
 ## Concepts
----
 This program does very few things, so here are some concepts to understand what's going on under the hood so you can use this program better. You can skip this part if you're not interested.
 
 ### 1. Decoupling
@@ -17,7 +16,6 @@ Sit back and watch the program do some funny goofy stuff and be happy that you d
 <br>
 
 ## The Actual Guide
----
 ### Running the Program
 This program has to be run on a PC. 
 
